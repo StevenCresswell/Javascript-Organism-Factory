@@ -1,0 +1,1 @@
+Javascript code that allows user to randomly generate DNA strands objects representing simple organisms using a factory function. The organism objects can be mutated, compared and their liklihood to survive can be assessed.
